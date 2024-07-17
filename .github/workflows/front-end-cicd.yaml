@@ -3,7 +3,7 @@ name : Upload wesbite to S3
 on:
   push:
     branches:
-    -main
+    - main
 
 jobs:
   deploy:
